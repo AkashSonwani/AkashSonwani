@@ -7,7 +7,11 @@
 
 
 ## 🌐 Socials:
+![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/e5c59f06-267f-45bc-becb-d5bccaae7f36)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4kashxd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/4kashxd) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/4kashxd) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/4kashxd) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/4kashxd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/4kashxd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@4kashxd) 
+
+![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/e5c59f06-267f-45bc-becb-d5bccaae7f36)
 
 
 # 💻 Tech Stack:
@@ -27,7 +31,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AkashSonwani&icon=0&color=0)](https://visitcount.itsvg.in)
-![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/e5c59f06-267f-45bc-becb-d5bccaae7f36)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AkashSonwani) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Jyotixt) 
